@@ -1,0 +1,5 @@
+webapp>WEB-INF>  add lib folder with all jars
+
+or
+
+webcontents>WEB-INF>  add lib folder with all jars
